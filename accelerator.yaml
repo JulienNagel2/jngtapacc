@@ -1,7 +1,8 @@
 accelerator:
   displayName: JNG Sample Accelerator
   description: A dummy Accelerator provided by JNG
-  iconUrl: https://dashboard.snapcraft.io/site_media/appmedia/2018/11/indicator-sensors_r8EdpLP.png
+  #iconUrl: https://dashboard.snapcraft.io/site_media/appmedia/2018/11/indicator-sensors_r8EdpLP.png
+  iconUrl: https://assets.ubuntu.com/v1/eccf1818-raspberrypi.png
   tags:
     - TAP
     - JNG
